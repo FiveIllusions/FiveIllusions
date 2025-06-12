@@ -1,5 +1,5 @@
-## Five Illusions Toolbox
-# By Paul Linton
+# Five Illusions Toolbox
+By Paul Linton
 
 <!--
 **FiveIllusions/FiveIllusions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
